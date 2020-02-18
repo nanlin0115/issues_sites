@@ -1,0 +1,110 @@
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin:0;
+    background-color:  #eed8d870;
+
+
+}
+.menu{
+    border-width: 5px;
+    border-style: solid;
+    border-color: #b09292;
+    background-color: #eed8d8;
+    overflow: hidden;
+}
+.menu a:hover{
+    color: white;
+ 
+}
+.text{
+    padding-left: 10%;
+    padding-right: 10%;
+    color:rgba(236, 99, 35, 0.726);
+}
+.main_container{
+    justify-content: space-between;
+    font-size: 15px;
+}
+
+.nf_dis{
+    border-width: 2px;
+    border-style: solid;
+    border-color: #eed8d8;
+    font-size: 2vw;
+    color: #572c2c;
+}
+.real_iss{
+    font-size: 2vw;
+    color:#572c2c;
+    padding-left: 35vw;
+    border-width: 2px 1px;
+    border-style: solid;
+    border-color: #eed8d8;
+    
+
+}
+.prev_iso{
+    font-size: 2vw;
+    color: #572c2c;
+    padding-left: 30vw;
+    border-width: 2vw 1vw;
+    border-style: solid;
+    border-color: #eed8d8;
+}
+
+.overview{
+    color: white;
+    background-color: rgba(148, 77, 77, 0.829);
+    padding: 15px;
+    left: 0px;
+    top: 0px;
+    height: 100%;
+    font-size: 24pt;
+    padding-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+img{
+    width: 800px;
+    display:block;
+    padding-right: 5%;
+    top:0px;
+    float:right;
+   
+}
+h3{
+    font-size: 100px;
+    border-style: solid;
+    border-width: 3px 3px;
+    border-color: rgba(255, 99, 71, 0.425);
+    background-color: rgba(255, 99, 71, 0.61);
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    color: rgb(240, 220, 220);
+}
+.bold{
+    font-weight: bold;
+    font-size: 25px;
+    color: rgb(119, 25, 25);
+}
+.bolder{
+    font-weight: bolder;
+    font-size: 45px;
+    color: rgb(73, 43, 4);
+}
+.causes{
+    font-size: 15px;
+}
+p{
+    font-size: 20px;
+    padding-left: 20px;
+}

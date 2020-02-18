@@ -1,0 +1,72 @@
+body{
+    background-image: url("https://www.niaid.nih.gov/themes/contrib/drupal-theme/patternlab/source/images/banner.jpg" );
+    background-color: #cccccc;
+    background-size:100vw ;
+    color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.logo img{
+    width: 5%;
+}
+.text{
+    padding-left: 5%;
+    padding-right: 25%;
+    font-size: 30px;
+}
+
+.bold{
+    font-weight: bold;
+    font-size: 40px;
+}
+.bolder{
+    font-weight: bolder;
+    font-size: 85px;
+}
+.ebola{
+    font-size: 35px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 50px;
+    border-color: rgba(218, 162, 42, 0.904);
+    background-color: rgba(231, 228, 29, 0.205);
+    color: rgb(20, 3, 34);
+}
+.hiv{
+    margin-top: 5%;
+
+    font-size: 35px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 50px;
+    border-color: rgba(218, 162, 42, 0.904);
+    background-color: rgba(231, 228, 29, 0.205);
+    color: rgb(20, 3, 34);
+}
+.COVID-19{
+    margin-top: 5%;
+
+    font-size: 35px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 50px;
+    border-color: rgba(218, 162, 42, 0.904);
+    background-color: rgba(231, 228, 29, 0.205);
+    color: rgb(20, 3, 34);
+}
+h1{
+    color: rgb(248, 245, 242);
+   
+}
+h2{
+    color: rgb(112, 49, 12);
+}
+h3{
+    color: rgb(112, 49, 12);
+}
+h4{
+    color: rgb(112, 49, 12);
+}

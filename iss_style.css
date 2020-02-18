@@ -1,0 +1,53 @@
+body{
+    background-image: url("https://www.roche.com/dam/jcr:6bf91d34-d0c2-45a2-ab2f-5cf91066ea1a/en/influenza-hub-1920-2.jpg");
+    background-color: #cccccc;
+    color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.maincontainer{
+    font-size: 35px;
+}
+.ebola{
+    font-size: 35px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 50px;
+    border-color: rgb(0, 128, 128);
+    background-color: rgba(0, 128, 128, 0.349);
+}
+.bold{
+    font-weight: bold;
+}
+
+.text{
+    padding-left: 5%;
+    padding-right: 25%;
+    font-size: 30px;
+}
+
+.logo img{
+    width: 5%;
+}
+.hiv{
+    margin-top: 5%;
+
+    font-size: 35px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 50px;
+    border-color: rgb(0, 128, 128);
+    background-color: rgba(0, 128, 128, 0.349); 
+}
+.COVID-19{
+    margin-top: 5%;
+
+    font-size: 35px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 50px;
+    border-color: rgb(0, 128, 128);
+    background-color: rgba(0, 128, 128, 0.349);
+}
